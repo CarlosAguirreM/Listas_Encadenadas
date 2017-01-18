@@ -9,6 +9,7 @@ public class Nodo {
 		elemento 	= s;
 		next		= n;
 		preview 	= m;
+
 	}
 	public Nodo(String s,Nodo n){
 		elemento = s;
